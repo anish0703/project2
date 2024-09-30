@@ -1,0 +1,16 @@
+#Con1{
+    height: 60px;
+}
+#logout{
+    display: flex;
+    justify-content: right;
+    padding: 10px 20px;
+}
+#navbarNav{
+    justify-content: right;
+    padding: 10px;
+}
+#ser{
+    padding: 15px;
+}
+
